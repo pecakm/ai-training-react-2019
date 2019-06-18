@@ -1,0 +1,7 @@
+const CONSTANTS = {
+  CANVAS_SIZE: 320,
+  BOARD_SIZE: 16,
+  AREA: 20 // CANVAS_SIZE / BOARD_SIZE
+};
+
+export default CONSTANTS;
